@@ -1,0 +1,5 @@
+5	Bob	Bob	Hello, World!	HelloWorld
+6	Walter	Jessie	I'm hungryyyyyyyyyyyyy	starving
+7	Eve	WallE	Hi, WallE!	ai_rules_the_world
+8	Iron Man	Captain America	I've got Jarvis, but you only got that metal plate	im_rich
+9	Wallace	Wallace	I love teaching students how to make games	centennial
