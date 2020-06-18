@@ -4,7 +4,7 @@
  * Dohyun Kim 301058465
  * Pablo Saldarriaga 301092976
  * Ishan Gangji 300784236
- * Ethan St Louis STUDENT#
+ * Ethan St Louis 301070708
  */
 
 using System;
@@ -33,7 +33,7 @@ namespace COMP123.Assignment02
                 new Tweet("Bob", "Bob", "Hello World", "HelloWorld"),
                 new Tweet("Walter", "Jessie", "I'm hungry", "starving"),
                 new Tweet("WallE", "Eve", "Eeeeeevaaaaaa", "ai_rules_the_world"),
-                new Tweet("Iron Man", "Black Widow", "I've got Jarvis, but ain't got nothing", "im_rich"),
+                new Tweet("Iron Man", "Black Widow", "I've got Jarvis, but you ain't got nothing", "im_rich"),
                 new Tweet("Wallace", "Wallace", "I have two kids", "centennial"),
             };
         }
