@@ -437,3 +437,5 @@ $RECYCLE.BIN/
 ##
 /Medals.txt
 /Courses.txt
+/*.xml
+/*.json
